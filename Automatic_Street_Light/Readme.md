@@ -47,4 +47,64 @@ This logic mimics automatic street light operation.
 
 ## 🧠 Logic Flow
 
+Read LDR value
+↓
+Compare with threshold
+↓
+Low light → LED ON
+High light → LED OFF
 
+
+---
+
+## 🗂 Project Structure
+
+Automatic_Street_Light_Controller/
+├── README.md
+├── code/
+│ └── street_light.ino
+├── hardware/
+  └── circuit_diagram.jpg
+
+
+---
+
+## ▶️ How to Run the Project
+
+1. Connect the components as per the circuit diagram
+2. Open the `.ino` file in Arduino IDE
+3. Select the correct board and port
+4. Upload the code to Arduino UNO
+5. Test by changing light conditions near the LDR
+
+---
+
+## 📚 What I Learned
+
+- Basics of Arduino programming
+- Interfacing analog sensors
+- Threshold-based decision making
+- Practical breadboard circuit assembly
+- Debugging hardware-software interaction
+
+---
+
+## 🔮 Future Improvements
+
+- Use a relay module to control high-voltage AC street lights
+- Add multiple LEDs to simulate a street light network
+- Implement solar-powered operation
+- Add IoT monitoring using ESP8266 / ESP32
+
+---
+
+## 📎 Reference
+
+Inspired by an Arduino Project Hub implementation.  
+The project was recreated to gain hands-on experience with embedded systems and automation.
+
+---
+
+## 👤 Author
+
+Suyash
