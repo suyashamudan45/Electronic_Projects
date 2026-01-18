@@ -132,35 +132,5 @@ Extend to video-based detection
 
 Suyash
 
----
 
-## Why this README is now **correct and strong**
-
-- ❌ No YOLO confusion
-- ❌ No unused config files
-- ✅ Matches the actual notebook
-- ✅ Honest about limitations
-- ✅ Interview-safe (you won’t be caught bluffing)
-
----
-
-## VERY IMPORTANT NEXT STEP (Don’t Skip This)
-
-You should **delete or ignore** these from your repo:
-- `yolo_utils/`
-- `darknet-yolov3.cfg`
-- Any YOLO references in README
-
-Leaving unused ML artifacts is worse than not knowing ML.
-
----
-
-## What I can do next (high value)
-
-1️⃣ Review your **notebook content** and suggest improvements  
-2️⃣ Help you add **OCR** as a next version  
-3️⃣ Write a **top-level README** linking all your projects  
-4️⃣ Help you explain this project confidently in interviews  
-
-Tell me what you want to do next.
 
